@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+
+<html lang="en" class=“no-js”>
+<head>
+<meta charset="utf-8"/>
+
+<title>J.R. Techy</title>
+<link rel="stylesheet" href="techycss.css">
+<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+<!--[if lt IE 9]>
+	<script src="html5shiv.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="jrtechy.js"></script>
+</head>
+<body onLoad="fillYears(); populateTable(document.dateChooser)">
+<div id="logo" >
+     <img src="bacground halo blue.png"  />
+    </div>
+<div id="big_wrapper">
+<header id="top_header">
+	<h1 >Welcome to JR Techy</h1>
+</header>
+
+		
+		
+<nav id="topnav" >
+    <div id="menu">
+         <div class="navbut" ><button onClick="window.location='jrtechyhome1.html'"><h4>HOME</h4></button></div>
+        <div class="navbut"><button onClick="window.location='jrtechyabout.html'"><h4>ABOUT</h4></button></div>
+        <div class="navbut"><button onClick="return false" onmousedown="dropmenu('dropmenu1')"><div name="dropmenu1"id="dropmenu1" class="dropmenus">
+		<a href="360/services.html "></a>
+		<a href="O&SWebsite/philosophy.html"></a> 
+		<h4>SAMPLE SITES</h4></button></div>
+        <div class="navbut"><button onClick="window.location='jrtechycontact.html'"><h4>CONTACT</h4></button></div>
+        <div class="navbut"><button onClick="window.location='appointments.html'"><h4>APPOINTMENTS</h4></button></div></tr>
+	</div>
+</nav>
+<section id="Sampleintro">
+	<article class="intro" >
+		<header class="intoHead">	
+			<h1 class="introHead">Check Us Out</h1>
+		</header>
+		</p class="p_article"> These are just a couple examples of the sites our developers have put the same hard work into that you do on a daily basis. Bring your vision to us and let us make it a reality. We are dedicated to providing you with a custom solution built specifically for you by us.<p>
+	</article>
+
+
+
+<form name="link" id="dropdown">
+<select name="menu" id="ddmenu">
+<option selected> sample custom sites</option>
+<option value="360/about.html " >Salon360</option>
+<option value="O&SWebsite/philosophy.html">Scent Serenity</option>
+
+</select>
+<input type="button" onClick="location=document.link.menu.options[document.link.menu.selectedIndex].value; "target="_blank" value="Go" >
+</form>
+</section>
+</div>
+</body>
+</html>

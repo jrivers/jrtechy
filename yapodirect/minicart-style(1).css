@@ -1,0 +1,182 @@
+/*************************************************************/
+/* MINI CART STYLES*/
+/*************************************************************/
+.minicartwrap
+{
+    width:236px;  /* orig: 195px  */
+    z-index:200;
+}
+.minicartboxwrap
+{
+    font-size:11px;
+    text-align:left;
+    padding: 2px;
+    /*
+    border: solid 2px #333;   
+    background-color:#ddd;
+    */
+    border: solid 1px #a1a1a1;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 1px 8px 5px #888888;
+}
+.minicartwrap img
+{
+    border:0;
+}
+.minicartheader
+{
+    text-align:left;
+    height:21px;
+    padding-left:3px;
+    line-height:19px;
+    color:#333;
+    border-bottom:solid 2px #333;
+    font-weight:bold;
+}
+.minicartwrap a:link, .minicartwrap a:active, .minicartwrap a:visited, .minicartwrap a:hover
+{
+    font-weight:bold;
+}
+#miniCartArrow
+{
+    float:right;
+    padding-right:2px;
+    line-height:21px;
+}
+.miniCartCollapsed, .miniCartExpanded
+{
+    width: 16px;
+    height: 16px; 
+    overflow: hidden;
+    text-decoration:none; 
+    cursor: pointer;
+}
+.miniCartCollapsed
+{
+    background: url(CustomImages/miniCartArrow.png) no-repeat left top;
+}
+.miniCartExpanded
+{
+    background: url(CustomImages/miniCartArrow.png) no-repeat left -16px;
+}
+.miniCartDelete
+{
+    width: 16px;
+    height: 16px; 
+    text-decoration:none; 
+    background: url(CustomImages/miniCartDelete.png) no-repeat left top;
+    cursor: pointer;
+    display: block;
+    float: right;
+}
+.miniCartDelete:hover
+{
+    background: url(CustomImages/miniCartDelete.png) no-repeat left bottom;
+}
+.minicartitemsrow, .minicartcontents
+{
+    zoom:1; /*ie6 and 7*/
+}
+.miniCartItemsTable
+{
+    width: 100%;
+}
+#miniCartItemsTable td
+{
+    padding:4px 2px;
+    border-bottom:1px solid #333;
+}
+.miniCartProductName
+{
+    font-weight:bold;
+}
+.MiniCartImageCell
+{
+    text-align:center;
+    width:30%;
+}
+.MiniCartAttributesCell
+{
+    vertical-align:top;
+}
+.lineItemTotal
+{
+    padding-top:5px;
+    text-align:right;
+}
+#miniCartTotalRow td
+{
+    padding:4px 2px;
+}
+td#miniCartTotalCell
+{
+    padding-right:0px;
+}
+td#miniCartCheckoutCell
+{
+    text-align: right;
+}
+#miniCartItemCount
+{
+    display:block;
+}
+.minicarttotal
+{
+   font-weight:bold;
+}
+.minicartcheckoutnow
+{
+    font-weight: bold;
+}
+.miniCartLoading
+{
+    background: #ffffff url(CustomImages/ajax-loader.gif) no-repeat center center;
+    border: solid 1px #333;
+    /*ajax loading icons can be created here: http://ajaxload.info/ */
+}
+.miniCartLoading *
+{
+    visibility:hidden;
+}
+.checkoutNotice
+{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+/*********************************************************/
+/*	END MINICART STYLES */
+/*********************************************************/
+
+/*********************************************************/
+/*	Styles For DropDown MiniCart (wrapped by #miniCartWrap.withdropdown) */
+/*********************************************************/
+#miniCartWrap.withdropdown
+{
+    height:65px;
+    position:relative;
+}
+#miniCartWrap.withdropdown #miniAbsWrap
+{
+    position:absolute;
+	width:100%;
+}
+#miniCartWrap.withdropdown #miniAbsWrap.hideitems #miniCartItemsRow
+{
+    display:none;
+}
+
+/*********************************************************/
+/*	END Styles For DropDown MiniCart */
+/*********************************************************/
+#miniCartWrap
+{
+    /*position:absolute;
+     top: 0px; */
+     display: block;
+    float: left;
+    height: 85px;
+    margin-bottom: 15px;
+    padding-bottom: 10px
+}

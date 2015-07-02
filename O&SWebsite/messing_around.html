@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<script>
+
+
+
+</script>
+</head>
+<body>
+<script>
+k = prompt("How many things?","Enter a number");
+var mystuff = new Array();
+for (i=0;i<k;i++){
+	left=k-i;
+	mystuff[i] = prompt("The stuff you are entering","enter " + left +" more things");
+}
+answer = prompt("Would you like to review your things","y for yes any key for no");
+if (answer == "y")
+for (j=0;j<k;j++){
+	document.write(mystuff[j] +"<br>");
+}
+
+
+</script>
+</body>
+</html>

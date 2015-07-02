@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<script type="text/javascript">
+</script>
+</head>
+<body>
+<TABLE ID="calendarTable" BORDER=1 ALIGN="center">
+<TR>
+    <TH ID="tableHeader" COLSPAN=7></TH>
+</TR>
+<TR><TH>Sun</TH><TH>Mon</TH><TH>Tue</TH><TH>Wed</TH>
+<TH>Thu</TH><TH>Fri</TH><TH>Sat</TH></TR>
+<TBODY ID="tableBody"></TBODY>
+<TR>
+    <TD COLSPAN=7>
+    <P>
+    <FORM NAME="dateChooser">
+        <SELECT NAME="chooseMonth" 
+        onChange="populateTable(this.form)">
+            <OPTION SELECTED>January<OPTION>February
+            <OPTION>March<OPTION>April<OPTION>May
+            <OPTION>June<OPTION>July<OPTION>August
+            <OPTION>September<OPTION>October
+            <OPTION>November<OPTION>December
+    </SELECT>
+    <SELECT NAME="chooseYear" onChange="populateTable(this.form)">
+    </SELECT>
+    </FORM>
+    </P></TD>
+</TR>
+</TABLE>
+</body>
+</html>

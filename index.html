@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+
+<html lang="en" class=�no-js� ng-app>
+
+<head>
+	<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8">-->
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<script type="text/javascript" src="jQuery.js"></script>
+	<script type="text/javascript" src="app.js"></script>
+	<script type="text/javascript" src="angular.min.js"></script>
+	<script type="text/javascript" src="jrtechyjQuery.js"></script>
+	<script type="text/javascript" src="jrtechy.js"></script>
+<!--Adobe Edge Runtime-->
+    <script type="text/javascript" charset="utf-8" src="banner_edgePreload.js"></script>
+
+        .edgeLoad-EDGE-3957422 { visibility:hidden; }
+    </style>
+<!--Adobe Edge Runtime End-->
+
+<link rel="stylesheet" href="techycss.css">
+<!--[if lt IE 9]>
+	<script src="html5shiv.js"></script>
+<![endif]-->
+
+
+
+</head>
+<body onLoad="fillYears(); populateTable(document.dateChooser);printTime();">
+
+<div id="logo" >
+     <img src="bacground halo blue.png"  onmouseover='Alert.render("We can use your personal logo or our graphic designers can fashion one for you");'/>
+    </div>
+<div id="big_wrapper" >
+
+<header style="height:10%">
+
+<div id="Stage" class="EDGE-3957422">
+		</div>
+</header>
+<input type="button"value="menu" id="showmenu" >
+<nav id="topnav" >
+         <div class="navbut" name="navi" ><button onClick="window.location='index.html'" onmouseover="dropmenuhide()"><h4>HOME</h4></button></div>
+        <div class="navbut" name="navi"><button onClick="window.location='jrtechyabout.html'"onmouseover="dropmenuhide()"><h4>ABOUT</h4></button></div>
+        <div class="navbut" name="navi"><button onClick="return false" onmousedown="dropmenu()"><div name="dropmenu1" id="dropmenu1" class="dropmenus">
+		<a href="360/index.html " onclick='window.open("360/index.html ")'>Salon 360</a>
+		<a href="O&SWebsite/philosophy.html" onclick='window.open("O&SWebsite/philosophy.html")'> Scent Serenity</a>
+        <a href="yapodirect/Maybelline.html" onClick='window.open("yapodirect/Maybelline.html")'> Yapo Depot</a></div >
+		<h4>SAMPLE SITES</h4></button></div>
+        <div class="navbut" name="navi"><button onClick="window.location='jrtechycontact.html'"onmouseover="dropmenuhide()"><h4>CONTACT</h4></button></div>
+        <div class="navbut" name="navi"><button onClick="window.location='appointments.html'"onmouseover="dropmenuhide()"><h4>APPOINTMENTS</h4></button></div>
+		
+</nav>
+
+
+<section > 
+
+		<article class="intro" >
+			
+				<header style="margin:0px auto">
+					<h1 class="introhead"> Custom Quality</br> Design</h1>
+				</header>
+			<p class="p_article"><i>"Thank you for choosing J.R. Techy for your web development needs. We offer brilliant custom websites designed to your specifications. Don't trust your brand to template web designers. Stand out from the pack with a site that embodies the hard work and uniqueness that your business or organization brings to market. We also offer social media marketing and search engine optimization driving traffic to your brand and getting your products and/or services seen by more prospective customers"
+			<p></i>
+		
+		</article>
+		
+</section>
+<section id="skin" >
+	
+	<header onmouseover='Alert.render("We create custom media players with custom backgrounds and play-lists of your choosing(even your own Youtube videos)");'>
+		<h1 class= "movieHead" > Custom Media Players<h1>
+	</header>
+	<div id="movieart">
+		<video id="Themovie" width="90%" height="45%" >
+			<source src="Beginner JavaScript Tutorial - 40 - Simple Form Validation.mp4" >
+		</video>
+		<nav>
+			<div id="buttons">
+				<button type="button" id="playbutton">></button>
+				<button type="button" id="rewind"><<</button>
+			</div>
+			<div id="defaultBar">
+			<div id="progressBar"></div>
+			</div>
+			<div style="clear:both"></div>
+	
+		</nav>
+
+</div>	
+</section>
+
+	
+	<aside id="calendar" >
+	<header>
+		<hgroup onmouseover='Alert.render("We can also provide you with custom interactive calendars that can just display the date or be designed to display events as well as incorporate your google calendar into your webpage")'>
+		<h3 class="time"> Date & Time </h3>
+		<h3 id="thetime" class="time" ng-controller="MyController">{{ clock.now | date:'medium' }}<h3>
+		</hgroup>
+	
+	</header>
+					<TABLE ID="calendarTable" BORDER=1 ALIGN="center">
+					<TR>
+						<TH ID="tableHeader" COLSPAN=7></TH>
+					</TR>
+					<TR><TH>Sun</TH><TH>Mon</TH><TH>Tue</TH><TH>Wed</TH>
+						<TH>Thu</TH><TH>Fri</TH><TH>Sat</TH></TR>
+					<TBODY ID="tableBody"></TBODY>
+					<TR>
+						<TD COLSPAN=7>
+							<P>
+							<FORM NAME="dateChooser">
+							<SELECT NAME="chooseMonth" onChange="populateTable(this.form)">
+							<OPTION SELECTED>January<OPTION>February
+							<OPTION>March<OPTION>April<OPTION>May
+							<OPTION>June<OPTION>July<OPTION>August
+							<OPTION>September<OPTION>October
+							<OPTION>November<OPTION>December
+							</SELECT>
+							<SELECT NAME="chooseYear" onChange="populateTable(this.form)">
+							</SELECT>
+							</FORM>
+							</P></TD>
+					</TR>
+				</TABLE>
+
+	</aside>
+	<footer id="bottom">
+		<p><i>Have a Wonderful Day</i> </br> JRTECHY</br><script type="text/javascript">showwidth();</script></p> 
+	</footer>
+	<div id="dialogoverlay"></div>
+<div id="dialogbox">
+	<div>
+		<div id="dialogboxhead"></div>
+		<div id="dialogboxbody"></div>
+		<div id="dialogboxfoot"></div>
+	</div>
+</div>	
+</div>	 
+</body>
+</html>	 

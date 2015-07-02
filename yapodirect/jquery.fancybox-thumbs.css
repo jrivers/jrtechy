@@ -1,0 +1,432 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Discount Wholesalers, Inc :: Worldwide Suppliers of Discounted Wholesale Liquidations and Closeouts
+</title><meta name="description" content="Discount Wholesalers is a wholesale supplier of liquidations, closeouts, overstocks and other retail salvage general merchandise." /><meta name="keywords" content="liquidations,liquidators,closeout,closeouts, overstocks,wholesale merchandise,wholesale products,customer returns,closeout merchandise,salvage merchandise, surplus goods,liquidator, wholesale supplier, liquidation supplier,liquidation merchandise, flea market wholesale,flea market supply, salvage goods, department store returns" />
+	
+	
+
+	
+	<script src="jscripts/jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		adnsf$ = jQuery; 
+	</script>
+
+	<!-- MiniCart References -->
+    <script type="text/javascript" src="App_Themes/Skin_1/js/newminicart.js"></script>
+	<link href="App_Templates/Skin_1/App_Themes/Skin_1/minicart-style.css" rel="Stylesheet" type="text/css" media="all" />
+    <!-- End MiniCart Javascript Reference -->
+
+	<!-- FancyBox includes -->
+	<link rel="stylesheet" href="App_Templates/Skin_1/App_Themes/Skin_1/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="jscripts/jquery.fancybox.pack.js?v=2.1.5"></script>
+	<link rel="stylesheet" href="App_Templates/Skin_1/App_Themes/Skin_1/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+    <script type="text/javascript" src="jscripts/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+    <script type="text/javascript" src="jscripts/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+    <link rel="stylesheet" href="App_Templates/Skin_1/App_Themes/Skin_1/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+    <script type="text/javascript" src="jscripts/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+    <script type="text/javascript" src="jscripts/jquery.oembed.js"></script>
+    <!-- End FancyBox -->
+    <!-- Guided Nav logic -->
+    <script type="text/javascript" src="jscripts/CategoryLogic.js"></script>
+	
+	<script>
+						(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+						m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+						})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+						ga('create', 'UA-4268882-1', 'www.discountwholesalersinc.com');
+						ga('send', 'pageview');
+					</script><link href="App_Themes/Skin_1/configurable-multiimage.css" type="text/css" rel="stylesheet" /><link href="App_Themes/Skin_1/imageViewer.css" type="text/css" rel="stylesheet" /><link href="App_Themes/Skin_1/jquery.fancybox.css" type="text/css" rel="stylesheet" /><link href="App_Themes/Skin_1/jquery.fancybox-buttons.css" type="text/css" rel="stylesheet" /><link href="App_Themes/Skin_1/jquery.fancybox-thumbs.css" type="text/css" rel="stylesheet" /><link href="App_Themes/Skin_1/minicart-style.css" type="text/css" rel="stylesheet" /><link href="App_Themes/Skin_1/style.css" type="text/css" rel="stylesheet" /></head>
+<body>
+	<!--
+PAGE INVOCATION: /PageNotFound.aspx
+PAGE REFERRER: 
+STORE LOCALE: en-US
+STORE CURRENCY: USD
+CUSTOMER ID: 108097
+AFFILIATE ID: 0
+CUSTOMER LOCALE: en-US
+CURRENCY SETTING: USD
+CACHE MENUS: True
+-->
+
+	<form name="aspnetForm" method="post" action="PageNotFound.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjg5Mzc0MjcyD2QWAmYPZBYGAgEPZBYCAg8PZBYCAgEPDxYCHgdWaXNpYmxlaGRkAgUPZBYGAgMPZBYCZg9kFgICAQ8PZBYCHgdvbmNsaWNrBQ90aGlzLnZhbHVlID0gJydkAgcPZBYCAgEPZBYGAgEPFgIeBFRleHQFoAQ8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxM3B4OyBjb2xvcjogI2ZmMDAwMDsiPg0KPHA+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMThweDsiPldlJ3JlIHNvcnJ5LCB0aGUgcmVxdWVzdGVkIGl0ZW0gb3IgcGFnZSBjb3VsZCBub3QgYmUgZm91bmQuPC9zcGFuPjwvcD4NCjwvc3Bhbj4NCjxwPkFzIHdlJ3ZlIHJlY2VudGx5IGNoYW5nZWQgb3VyIHdlYnNpdGUsIHNvbWUgb2xkZXIgbGlua3MgbWF5IG5vdCB3b3JrIGNvcnJlY3RseS4gUmVjZWl2aW5nIHRoaXMgbWVzc2FnZSBkb2VzIG5vdCBuZWNlc3NhcmlseSBtZWFuIHRoZSBpdGVtIG9yIHBhZ2UgaXMgbm8gbG9uZ2VyIGF2YWlsYWJsZSBvbiBvdXIgd2Vic2l0ZS4gSWYgbm9uZSBvZiB0aGUgYXV0b21hdGVkIHN1Z2dlc3Rpb25zIGJlbG93IG1hdGNoIHdoYXQgeW91IHdlcmUgbG9va2luZyBmb3IsIHBsZWFzZSB0cnkgdGhlIEZpbHRlciBZb3VyIFJlc3VsdHMgbGlua3Mgb24gdGhlIGxlZnQgaGFuZCBzaWRlIG9mIHRoZSBwYWdlIHRvIGJyb3dzZSBieSBCcmFuZCwgVHlwZSBvciBMb3QgU2l6ZS48L3A+ZAIDDxBkZBYAZAIFDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCBWQWDGYPZBYCAgEPDxYCHwIFFEFyZSB5b3UgbG9va2luZyBmb3I6ZGQCAQ9kFgQCAQ8PFgQeC05hdmlnYXRlVXJsBSQvcC01MDAtd2FsbWFydC1jbG90aGluZy1wYWxsZXRzLmFzcHgfAgUYV2FsbWFydCBDbG90aGluZyBQYWxsZXRzZGQCAg8VAkNXYWxtYXJ0IENsb3RoaW5nIFBhbGxldHMgaW5jbHVkZSBtZW4sIHdvbWVuIGFuZCBjaGlsZHJlbidzIGFwcGFyZWwuAGQCAg9kFgQCAQ8PFgQfBQUjL3AtMTctY29zbWV0aWMtYW5kLXRyYXZlbC1iYWdzLmFzcHgfAgUYQ29zbWV0aWMgYW5kIFRyYXZlbCBCYWdzZGQCAg8VAj5Bc3NvcnRlZCBjb3NtZXRpYyBhbmQgdHJhdmVsIGJhZ3MgaW4gdmFyaW91cyBzdHlsZXMgYW5kIHNpemVzLgBkAgMPZBYEAgEPDxYEHwUFJC9wLTE2Ny1yZXZsb24tbmFpbC1hcnQtc3RpY2tlcnMuYXNweB8CBRhSZXZsb24gTmFpbCBBcnQgU3RpY2tlcnNkZAICDxUCZ1dob2xlc2FsZSBSZXZsb24gTmFpbCBBcnQgaW4gMTAwIGNvdW50IG1pbmltdW0gb3JkZXJzLiBJbmNsdWRlcyBhIHdpZGUgYXNzb3J0bWVudCBvZiBjb2xvcnMgYW5kIGRlc2lnbnMAZAIED2QWBAIBDw8WBB8FBSQvcC00NzMtdG95LWFuZC1zcG9ydHMtdHJ1Y2tsb2FkLmFzcHgfAgUYVG95IGFuZCBTcG9ydHMgVHJ1Y2tsb2FkZGQCAg8VAoMBPHA+VG95IGFuZCBTcG9ydHMgVHJ1Y2tsb2FkIGFyZSBuZXcgaXRlbXMgZnJvbSB0cmd0LmNvbSB0aGF0IGluY2x1ZGUgbmFtZSBicmFuZCBwb3B1bGFyIHRveXMsIHBvb2xzLCBzcG9ydHMgZXF1aXBtZW50IGFuZCBtb3JlITwvcD4AZAIFD2QWBAIBDw8WBB8FBSQvcC00NzQtY2xvcm94LWJsZWFjaC10cnVja2xvYWRzLmFzcHgfAgUYQ2xvcm94IEJsZWFjaCBUcnVja2xvYWRzZGQCAg8VAqMBPHA+Q2xvcm94IEJsZWFjaCBUcnVja2xvYWRzIGNvbnRhaW4gQ2xvcm94IExpcXVpZCBHZXJtaWNpZGFsIEJsZWFjaCwgMTIxb3ogYW5kIENsb3JveCBPdXRkb29yIEJsZWFjaCwgMTIwb3ouPC9wPg0KPHA+VVBDOiAwNDQ2MDAzMDk2Njg8YnIgLz4NClVQQzogMDQ0NjAwMzA3OTE2PC9wPgBkAgkPZBYCZg9kFgICAQ8WAh8CBdIvPGRpdiBpZD0iR3VpZGVkTmF2aWdhdGlvbiIgY2xhc3M9Ikd1aWRlZE5hdmlnYXRpb24iPg0KICA8aDQgY2xhc3M9Imd1aWRlZE5hdkhlYWRlciI+RmlsdGVyIFlvdXIgUmVzdWx0czwvaDQ+DQogIDxkaXYgaWQ9IlNlYXJjaEhlYWRlciIgY2xhc3M9InNlY3Rpb25oZWFkZXIgZ3JvdXAiPlNlYXJjaCBSZXN1bHRzPC9kaXY+DQogIDxkaXYgY2xhc3M9IkNhdEJsb2NrIiBpZD0iU2VhcmNoVW5zZWxlY3RlZCI+PGlucHV0IHR5cGU9InRleHQiIHNpemU9IjE1IiBuYW1lPSJTZWFyY2hUZXJtIiBpZD0iR3VpZGVkTmF2aWdhdGlvblNlYXJjaEJveCIgb25rZXlkb3duPSJpZiAoZXZlbnQua2V5Q29kZSA9PSAxMykge2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdHdWlkZWROYXZpZ2F0aW9uc2VhcmNoR28nKS5jbGljaygpOyByZXR1cm4gZmFsc2U7fSByZXR1cm4gdHJ1ZTsiPjxpbnB1dCB0eXBlPSJidXR0b24iIGlkPSJHdWlkZWROYXZpZ2F0aW9uc2VhcmNoR28iIHZhbHVlPSJHbyIgb25jbGljaz0iZG9jdW1lbnQubG9jYXRpb24uaHJlZiA9ICdzZWFyY2guYXNweD9TZWFyY2hUZXJtPScgKyBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnR3VpZGVkTmF2aWdhdGlvblNlYXJjaEJveCcpLnZhbHVlO3JldHVybiBmYWxzZTsiPjwvZGl2Pg0KICA8ZGl2IGNsYXNzPSJDYXRCbG9jayIgaWQ9IkJyYW5kVW5zZWxlY3RlZCI+DQogICAgPGgzIGlkPSJCcmFuZEhlYWRlciIgY2xhc3M9InNlY3Rpb25oZWFkZXIiPkJyYW5kPC9oMz4NCiAgICA8ZGl2IGNsYXNzPSJndWlkZWROYXZHcm91cCI+DQogICAgICA8ZGl2IGNsYXNzPSJ2aXNpYmxlIEd1aWRlZE5hdmlnYXRpb25BdHRyaWJ1dGVzIiBpZD0idmlzaWJsZXNlY3Rpb25CcmFuZCI+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMzItY2xvcm94LmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPkNsb3JveCAoMTQpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTctY292ZXJnaXJsLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPkNvdmVyR2lybCAoNSk8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMzktZXNzaWUuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+RXNzaWUgKDIpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTMzLWZvc3Rlci1ncmFudC5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5Gb3N0ZXIgR3JhbnQgKDMpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTMxLWdhcm5pZXIuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+R2FybmllciAoNSk8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMzQtaGVmdHkuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+SGVmdHkgKDEpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTUxLWtpc3MuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+S2lzcyAoNCk8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtNS1sb3JlYWwuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+TCdPcmVhbCAoMjEpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTYtbWF5YmVsbGluZS5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5NYXliZWxsaW5lICgyMCk8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtNDUtbmV1dHJvZ2VuYS5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5OZXV0cm9nZW5hICgxKTwvYT48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJoaWRkZW4gR3VpZGVkTmF2aWdhdGlvbkF0dHJpYnV0ZXMiIHN0eWxlPSJkaXNwbGF5Om5vbmUiIGlkPSJoaWRkZW5zZWN0aW9uQnJhbmQiPjxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtNDYtbmV3LXlvcmstY29sb3IuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+TmV3IFlvcmsgQ29sb3IgKDEpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTQ4LW5pdmVhLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPk5pdmVhICgxKTwvYT48L2Rpdj4NCiAgICAgICAgPGRpdiBjbGFzcz0ibmF2LXN1YmxldmVsIj48YSBocmVmPSIvcy0yOC1yZXZsb24uYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+UmV2bG9uICg2KTwvYT48L2Rpdj4NCiAgICAgICAgPGRpdiBjbGFzcz0ibmF2LXN1YmxldmVsIj48YSBocmVmPSIvcy0yOS1yaW1tZWwuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+UmltbWVsICg0KTwvYT48L2Rpdj4NCiAgICAgICAgPGRpdiBjbGFzcz0ibmF2LXN1YmxldmVsIj48YSBocmVmPSIvcy04LXNhbGx5LWhhbnNlbi5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5TYWxseSBIYW5zZW4gKDIyKTwvYT48L2Rpdj4NCiAgICAgICAgPGRpdiBjbGFzcz0ibmF2LXN1YmxldmVsIj48YSBocmVmPSIvcy00NC13ZXQtbi13aWxkLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPldldCBOIFdpbGQgKDIpPC9hPjwvZGl2Pg0KICAgICAgPC9kaXY+PGEgY2xhc3M9ImZ1bGx3aWR0aCIgaWQ9Ik1vcmVzZWN0aW9uQnJhbmRMaW5rIiBvbmNsaWNrPSJqYXZhc2NyaXB0OmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdoaWRkZW5zZWN0aW9uQnJhbmQnKS5zdHlsZS5kaXNwbGF5ID0gJ2Jsb2NrJztkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnTW9yZXNlY3Rpb25CcmFuZExpbmsnKS5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnOyIgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApOyI+TW9yZS4uLjwvYT48L2Rpdj4NCiAgPC9kaXY+DQogIDxkaXYgY2xhc3M9IkNhdEJsb2NrIiBpZD0iSXRlbSBUeXBlVW5zZWxlY3RlZCI+DQogICAgPGgzIGlkPSJJdGVtIFR5cGVIZWFkZXIiIGNsYXNzPSJzZWN0aW9uaGVhZGVyIj5JdGVtIFR5cGU8L2gzPg0KICAgIDxkaXYgY2xhc3M9Imd1aWRlZE5hdkdyb3VwIj4NCiAgICAgIDxkaXYgY2xhc3M9InZpc2libGUgR3VpZGVkTmF2aWdhdGlvbkF0dHJpYnV0ZXMiIGlkPSJ2aXNpYmxlc2VjdGlvbkl0ZW1UeXBlIj4NCiAgICAgICAgPGRpdiBjbGFzcz0ibmF2LXN1YmxldmVsIj48YSBocmVmPSIvcy0xNC1hcHBhcmVsLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPkFwcGFyZWwgKDE3KTwvYT48L2Rpdj4NCiAgICAgICAgPGRpdiBjbGFzcz0ibmF2LXN1YmxldmVsIj48YSBocmVmPSIvcy0xNS1hcHBsaWFuY2VzZWxlY3Ryb25pY3MuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+QXBwbGlhbmNlcy9FbGVjdHJvbmljcyAoMTApPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTE5LWJhZ3Mtc3RvcmFnZS5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5CYWdzICZhbXA7IFN0b3JhZ2UgKDMpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTIwLWNsZWFuZXJzLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPkNsZWFuZXJzICgxNyk8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtNC1jb3NtZXRpY3MuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+Q29zbWV0aWNzICgxMDMpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTIxLWRldGVyZ2VudHMuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+RGV0ZXJnZW50cyAoNik8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMTYtZG9sbGFyLXN0b3JlLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPkRvbGxhciBTdG9yZSAoMjEpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTEwLWhhaXItY2FyZS5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5IYWlyIENhcmUgKDI5KTwvYT48L2Rpdj4NCiAgICAgICAgPGRpdiBjbGFzcz0ibmF2LXN1YmxldmVsIj48YSBocmVmPSIvcy0xMS1oZWFsdGgtY2FyZS5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5IZWFsdGggQ2FyZSAoMTApPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTIyLWluc2VjdGljaWRlcy5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5JbnNlY3RpY2lkZXMgKDUpPC9hPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImhpZGRlbiBHdWlkZWROYXZpZ2F0aW9uQXR0cmlidXRlcyIgc3R5bGU9ImRpc3BsYXk6bm9uZSIgaWQ9ImhpZGRlbnNlY3Rpb25JdGVtVHlwZSI+PGRpdiBjbGFzcz0ibmF2LXN1YmxldmVsIj48YSBocmVmPSIvcy0zOC1wYXBlci1wcm9kdWN0cy5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5QYXBlciBQcm9kdWN0cyAoMSk8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMTItcGVyc29uYWwtY2FyZS5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5QZXJzb25hbCBDYXJlICgyMik8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMTctc2Nob29sLW9mZmljZS1zdXBwbGllcy5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5TY2hvb2wgJmFtcDsgT2ZmaWNlIFN1cHBsaWVzICg3KTwvYT48L2Rpdj4NCiAgICAgICAgPGRpdiBjbGFzcz0ibmF2LXN1YmxldmVsIj48YSBocmVmPSIvcy0xOC1zZWFzb25hbC5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5TZWFzb25hbCAoNik8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMTMtc2tpbi1jYXJlLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPlNraW4gQ2FyZSAoOCk8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtNTItdHJhaWxlcmxvYWRzLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPlRyYWlsZXJsb2FkcyAoNik8L2E+PC9kaXY+DQogICAgICA8L2Rpdj48YSBjbGFzcz0iZnVsbHdpZHRoIiBpZD0iTW9yZXNlY3Rpb25JdGVtVHlwZUxpbmsiIG9uY2xpY2s9ImphdmFzY3JpcHQ6ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2hpZGRlbnNlY3Rpb25JdGVtVHlwZScpLnN0eWxlLmRpc3BsYXkgPSAnYmxvY2snO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdNb3Jlc2VjdGlvbkl0ZW1UeXBlTGluaycpLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7IiBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCk7Ij5Nb3JlLi4uPC9hPjwvZGl2Pg0KICA8L2Rpdj4NCiAgPGRpdiBjbGFzcz0iQ2F0QmxvY2siIGlkPSJMb3QgU2l6ZVVuc2VsZWN0ZWQiPg0KICAgIDxoMyBpZD0iTG90IFNpemVIZWFkZXIiIGNsYXNzPSJzZWN0aW9uaGVhZGVyIj5Mb3QgU2l6ZTwvaDM+DQogICAgPGRpdiBjbGFzcz0iZ3VpZGVkTmF2R3JvdXAiPg0KICAgICAgPGRpdiBjbGFzcz0idmlzaWJsZSBHdWlkZWROYXZpZ2F0aW9uQXR0cmlidXRlcyIgaWQ9InZpc2libGVzZWN0aW9uTG90U2l6ZSI+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMjMtYm94LWxvdHMuYXNweCIgY2xhc3M9ImZ1bGx3aWR0aCI+Qm94IExvdHMgKDE2MCk8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMjQtY2FzZS1sb3RzLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPkNhc2UgTG90cyAoNDIpPC9hPjwvZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtc3VibGV2ZWwiPjxhIGhyZWY9Ii9zLTI1LXBhbGxldC1sb3RzLmFzcHgiIGNsYXNzPSJmdWxsd2lkdGgiPlBhbGxldCBMb3RzICg1MSk8L2E+PC9kaXY+DQogICAgICAgIDxkaXYgY2xhc3M9Im5hdi1zdWJsZXZlbCI+PGEgaHJlZj0iL3MtMjYtdHJhaWxlci1sb2Fkcy5hc3B4IiBjbGFzcz0iZnVsbHdpZHRoIj5UcmFpbGVyIExvYWRzICgyNyk8L2E+PC9kaXY+DQogICAgICA8L2Rpdj4NCiAgICA8L2Rpdj4NCiAgPC9kaXY+DQo8L2Rpdj5kAg0PZBYCAgEPDxYCHwBoZGRkbUKrPFeOI8ahCWPYfZLeT/NfBsI=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=536u0ocerV0E8XHaoRfVAPdt1XEmgYTjCoGrMPXEkzbC3zhd53l3d_EoNDUmJhtylnH8bvKigUQCrX67xzqaKVQa9Ws1&amp;t=635294806417495136" type="text/javascript"></script>
+
+
+<script src="jscripts/formvalidate.js" type="text/javascript"></script>
+<script src="jscripts/core.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=nC8WlwRtzkQkyYPYXuZwHVUywWNZ9DyRl_0tJJuWXb2aqNSuVqG-Jd6O5rMqeBAgi0RbTllqLLXjagV6T1bLt83-ZZ9yzISxitmT3dlrr--L1isCiJxks-X_ko_lnU3qRTwTnnwHSDk7erPBhWNsNilyPFs1&amp;t=2e2045e2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mkI-e39DIMeUv7zzlcda7Icgh5lFYFPnh0VYB8cLrb2ItMGDVAqdx2A9VpFtUuJJhoxsh94pUBzUOzog9w9XwmR3U4wqt8n3wMBK8ny75brhxpdro02f0bOdXrfOdNfRG43nbi9TEnNkjxHneS7ZGKMzUqkJzMjSHbXqe5kWvi9HDaew0&amp;t=2e2045e2" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="510B8B35" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKyxZrODQKfs/XCBAKUpbqJCQfu9N6VIztNhNOI5G4pTASVqFeY" />
+</div>
+		
+		<div class="wrapper">
+			<div class="header">
+			    
+				<!-- READ FROM DB --><a id="logo" class="logo" href="default.aspx" title="Discount Wholesalers, Inc.| Worldwide Suppliers of Liquidated General Merchandise">
+<img src="/images/dwi_logo-new.jpg" alt="Discount Wholesalers, Inc: Worldwide suppliers of liquidated merchandise" />
+</a>
+<!--
+<div class="userLinks" id="userLinks">
+
+<a href="signin.aspx">Login</a>
+<a href="account.aspx" class="account">Your Account</a>
+<a href="shoppingcart.aspx" class="cart">Shopping Cart (0)</a>
+</div>
+-->
+<div id="divSocialLinks">
+<!-- BEGIN: Constant Contact Border Email List Button -->
+<a href="http://visitor.r20.constantcontact.com/d.jsp?llr=vkepzwcab&amp;p=oi&amp;m=1102424019285" target="_blank" title="Join our Mailing List"><img style="float: left; padding-left: 5px;" src="/images/media/social-link-icon_email-small.jpg" alt="Email Newsletter icon, E-mail Newsletter icon, Email List icon, E-mail List icon" /></a>
+<!-- END: Constant Contact Border Email List Button -->
+<a target="_blank" href="http://www.facebook.com/pages/Discount-Wholesalers-Inc/229662730525229" style="float: left; padding-left: 5px;"><img title="Visit our Facebook page" src="/images/media/social-link-icon_facebook-small.jpg" alt="facebook" /></a> <a target="_blank" href="http://twitter.com/dwholesalersinc" style="float: left; padding-left: 5px;"><img title="See what we're Tweeting about" src="/images/media/social-link-icon_twitter-small.jpg" alt="twitter" /></a>
+</div>
+<div id="divLiveChat">
+<!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
+<script type='text/javascript' src='//gateway2.parkersoft.co.uk/include.js?domain=www.discountwholesalersinc.com'></script>
+<script type='text/javascript' >
+if(typeof sWOTrackPage=='function')sWOTrackPage();
+</script>
+<!-- End of embedded WhosOn -->
+</div>
+<div id="divContactInfo">
+<div class="phone">Call:   610.458.1131 (PA)</div>
+<div class="phone">910.536.1440 (NC)</div>
+<div class="hours" itemtype="http://schema.org/OpeningHoursSpecification" itemprop="openingHoursSpecification">Office Hours: <span datetime="Mo,Fr 08:00-17:00" itemprop="openingHours">M-F 8am-5pm EST</span></div>
+</div><!-- END OF DB -->
+
+
+				<div style="clear: both;"></div>
+				 
+			</div>
+		</div>
+		<div class="topNavWrapper">
+			<div class="wrapper">
+				<div class="topNav">
+					<!-- READ FROM DB --><ul class="topNavList">
+    <!--
+    <li><a href="default.aspx">Home</a></li>
+    <li><a href="t-about.aspx">About Us</a></li>
+    <li><a href="t-service.aspx">Customer Service</a></li>
+    <li><a href="t-faq.aspx">FAQs</a></li>
+    <li><a href="t-contact.aspx">Contact Us</a></li>
+-->
+    <li><a href="RecentAdditions.aspx">New Arrivals</a></li>
+    <li><a href="c-2-general-merchandise.aspx">General Merchandise</a></li>
+    <li><a href="c-1-health-beauty.aspx">Health &amp; Beauty</a></li>
+    <li><a href="s-4-cosmetics.aspx">Cosmetics</a></li>
+    <li><a href="c-3-household.aspx">Household</a></li>
+    <li><a href="s-14-apparel.aspx">Apparel</a></li>
+    <li><a href="c-4-seasonal.aspx">Seasonal</a></li>
+    <li><a href="s-16-dollar-store.aspx">Dollar Store Friendly</a></li>
+    <li><a href="c-5-trailer-loads-multi-pallet-lots.aspx">Trailer Loads &amp; Multi-Pallet Lots</a></li>
+    <li><a href="c-7-clearance.aspx">Clearance</a> </li>
+    <li><a href="t-howtopurchase.aspx">How To Purchase</a></li>
+    <li><a href="NeedToLiquidate.aspx">Liquidate Your Inventory</a></li>
+</ul><!-- END OF DB -->
+
+
+					<div class="searchWrap">
+						<div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_Search1_SearchButton')">
+	
+
+    <input name="ctl00$Search1$SearchBox" type="text" value="Search..." id="ctl00_Search1_SearchBox" class="searchBox" onclick="this.value = ''" />
+
+    <input type="button" name="ctl00$Search1$SearchButton" value="Go" onclick="javascript:__doPostBack('ctl00$Search1$SearchButton','')" id="ctl00_Search1_SearchButton" class="searchGo" />
+
+
+</div>
+					</div>
+					<div style="clear: both;"></div>
+				</div>
+			</div>
+		</div>
+		<div class="wrapper">
+			<div class="bodyWrapper">
+				<div id="contentWrapper" class="contentWrapper">
+					<div id="content" class="content">
+						<!-- <div id="breadcrumb" class="breadcrumb bar">
+							
+							<a href="default.aspx" id="ctl00_homeLink" class="homeLink">
+								Home
+							</a>
+							&rarr;
+							
+						</div> -->
+						<!-- CONTENTS START -->
+						
+    <div id="ctl00_PageContent_pnlContent">
+	
+        
+         <div>
+                <div id="pnlTopic" >
+                    <span style="font-size: 13px; color: #ff0000;">
+<p><span style="font-size: 18px;">We're sorry, the requested item or page could not be found.</span></p>
+</span>
+<p>As we've recently changed our website, some older links may not work correctly. Receiving this message does not necessarily mean the item or page is no longer available on our website. If none of the automated suggestions below match what you were looking for, please try the Filter Your Results links on the left hand side of the page to browse by Brand, Type or Lot Size.</p>        
+                </div>            
+                
+                <div id="pnlSuggestion">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
+                </div>
+        </div>
+                <table id="ctl00_PageContent_DataList1" cellspacing="0" cellpadding="4" border="0" style="color:#333333;border-collapse:collapse;">
+		<tr>
+			<td style="color:White;font-weight:bold;">
+                        <span id="ctl00_PageContent_DataList1_ctl00_SuggestionTitleMessage" style="color:Black;font-size:Medium;">Are you looking for:</span>
+                    </td>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_PageContent_DataList1_ctl01_HyperLink1" href="/p-500-walmart-clothing-pallets.aspx" style="font-size:Medium;">Walmart Clothing Pallets</a><br />
+                            Walmart Clothing Pallets include men, women and children's apparel.
+                    </td>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_PageContent_DataList1_ctl02_HyperLink1" href="/p-17-cosmetic-and-travel-bags.aspx" style="font-size:Medium;">Cosmetic and Travel Bags</a><br />
+                            Assorted cosmetic and travel bags in various styles and sizes.
+                    </td>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_PageContent_DataList1_ctl03_HyperLink1" href="/p-167-revlon-nail-art-stickers.aspx" style="font-size:Medium;">Revlon Nail Art Stickers</a><br />
+                            Wholesale Revlon Nail Art in 100 count minimum orders. Includes a wide assortment of colors and designs
+                    </td>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_PageContent_DataList1_ctl04_HyperLink1" href="/p-473-toy-and-sports-truckload.aspx" style="font-size:Medium;">Toy and Sports Truckload</a><br />
+                            <p>Toy and Sports Truckload are new items from trgt.com that include name brand popular toys, pools, sports equipment and more!</p>
+                    </td>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_PageContent_DataList1_ctl05_HyperLink1" href="/p-474-clorox-bleach-truckloads.aspx" style="font-size:Medium;">Clorox Bleach Truckloads</a><br />
+                            <p>Clorox Bleach Truckloads contain Clorox Liquid Germicidal Bleach, 121oz and Clorox Outdoor Bleach, 120oz.</p>
+<p>UPC: 044600309668<br />
+UPC: 044600307916</p>
+                    </td>
+		</tr>
+	</table>
+            
+    
+</div>
+
+						<!-- CONTENTS END -->
+						<div style="clear: both;"></div>
+					</div>
+
+				</div>
+				<div id="verticalNavWrapper" class="verticalNavWrapper">
+				<!-- MiniCart XML Package -->
+                <div id="miniCartWrap" class="withdropdown minicartwrap">
+  <div id="miniAbsWrap" class="hideitems">
+    <div class="minicartboxwrap">
+      <div id="miniCartHeader" class="minicartheader">
+        <div id="miniCartHeaderLinks" style="float:left;"><a href="signin.aspx">Login</a>  <a href="account.aspx" title="Your account">My Account</a></div>
+        <div id="miniCartArrow">
+          <div id="miniCartArrowLink" class="miniCartCollapsed" onclick="ToggleMiniCart(this)"> </div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+      <div id="vMiniCart">
+            	            <div id="dropdown">
+  <div class="minicartcontents">
+    <table id="miniCartSummary" class="minicartsummary" cellspacing="0" cellpadding="0" width="100%">
+      <tr id="miniCartTotalRow">
+        <td id="miniCartTotalCell"><span id="miniCartItemCount">0 Item in cart</span><span id="miniCartTotal" class="minicarttotal">$0.00</span></td>
+        <td id="miniCartCheckoutCell"><a href="shoppingcart.aspx" id="minicartCheckoutNow" class="minicartcheckoutnow">Begin Checkout</a></td>
+      </tr>
+    </table>
+  </div>
+</div>
+            	        </div>
+      <div style="clear:both;"></div>
+    </div>
+  </div>
+</div>
+<div style="clear:both;"></div>
+                <!-- End Minicart XML Package -->
+                    
+                    
+                   
+                    <!--Guided Navigation Block: Navigation XML Package-->
+                    <div id="ctl00_GuidedNavigation1_pnlGuidedNavigation">
+	
+   <div id="GuidedNavigation" class="GuidedNavigation">
+  <h4 class="guidedNavHeader">Filter Your Results</h4>
+  <div id="SearchHeader" class="sectionheader group">Search Results</div>
+  <div class="CatBlock" id="SearchUnselected"><input type="text" size="15" name="SearchTerm" id="GuidedNavigationSearchBox" onkeydown="if (event.keyCode == 13) {document.getElementById('GuidedNavigationsearchGo').click(); return false;} return true;"><input type="button" id="GuidedNavigationsearchGo" value="Go" onclick="document.location.href = 'search.aspx?SearchTerm=' + document.getElementById('GuidedNavigationSearchBox').value;return false;"></div>
+  <div class="CatBlock" id="BrandUnselected">
+    <h3 id="BrandHeader" class="sectionheader">Brand</h3>
+    <div class="guidedNavGroup">
+      <div class="visible GuidedNavigationAttributes" id="visiblesectionBrand">
+        <div class="nav-sublevel"><a href="/s-32-clorox.aspx" class="fullwidth">Clorox (14)</a></div>
+        <div class="nav-sublevel"><a href="/s-7-covergirl.aspx" class="fullwidth">CoverGirl (5)</a></div>
+        <div class="nav-sublevel"><a href="/s-39-essie.aspx" class="fullwidth">Essie (2)</a></div>
+        <div class="nav-sublevel"><a href="/s-33-foster-grant.aspx" class="fullwidth">Foster Grant (3)</a></div>
+        <div class="nav-sublevel"><a href="/s-31-garnier.aspx" class="fullwidth">Garnier (5)</a></div>
+        <div class="nav-sublevel"><a href="/s-34-hefty.aspx" class="fullwidth">Hefty (1)</a></div>
+        <div class="nav-sublevel"><a href="/s-51-kiss.aspx" class="fullwidth">Kiss (4)</a></div>
+        <div class="nav-sublevel"><a href="/s-5-loreal.aspx" class="fullwidth">L'Oreal (21)</a></div>
+        <div class="nav-sublevel"><a href="/s-6-maybelline.aspx" class="fullwidth">Maybelline (20)</a></div>
+        <div class="nav-sublevel"><a href="/s-45-neutrogena.aspx" class="fullwidth">Neutrogena (1)</a></div></div><div class="hidden GuidedNavigationAttributes" style="display:none" id="hiddensectionBrand"><div class="nav-sublevel"><a href="/s-46-new-york-color.aspx" class="fullwidth">New York Color (1)</a></div>
+        <div class="nav-sublevel"><a href="/s-48-nivea.aspx" class="fullwidth">Nivea (1)</a></div>
+        <div class="nav-sublevel"><a href="/s-28-revlon.aspx" class="fullwidth">Revlon (6)</a></div>
+        <div class="nav-sublevel"><a href="/s-29-rimmel.aspx" class="fullwidth">Rimmel (4)</a></div>
+        <div class="nav-sublevel"><a href="/s-8-sally-hansen.aspx" class="fullwidth">Sally Hansen (22)</a></div>
+        <div class="nav-sublevel"><a href="/s-44-wet-n-wild.aspx" class="fullwidth">Wet N Wild (2)</a></div>
+      </div><a class="fullwidth" id="MoresectionBrandLink" onclick="javascript:document.getElementById('hiddensectionBrand').style.display = 'block';document.getElementById('MoresectionBrandLink').style.display = 'none';" href="javascript:void(0);">More...</a></div>
+  </div>
+  <div class="CatBlock" id="Item TypeUnselected">
+    <h3 id="Item TypeHeader" class="sectionheader">Item Type</h3>
+    <div class="guidedNavGroup">
+      <div class="visible GuidedNavigationAttributes" id="visiblesectionItemType">
+        <div class="nav-sublevel"><a href="/s-14-apparel.aspx" class="fullwidth">Apparel (17)</a></div>
+        <div class="nav-sublevel"><a href="/s-15-applianceselectronics.aspx" class="fullwidth">Appliances/Electronics (10)</a></div>
+        <div class="nav-sublevel"><a href="/s-19-bags-storage.aspx" class="fullwidth">Bags &amp; Storage (3)</a></div>
+        <div class="nav-sublevel"><a href="/s-20-cleaners.aspx" class="fullwidth">Cleaners (17)</a></div>
+        <div class="nav-sublevel"><a href="/s-4-cosmetics.aspx" class="fullwidth">Cosmetics (103)</a></div>
+        <div class="nav-sublevel"><a href="/s-21-detergents.aspx" class="fullwidth">Detergents (6)</a></div>
+        <div class="nav-sublevel"><a href="/s-16-dollar-store.aspx" class="fullwidth">Dollar Store (21)</a></div>
+        <div class="nav-sublevel"><a href="/s-10-hair-care.aspx" class="fullwidth">Hair Care (29)</a></div>
+        <div class="nav-sublevel"><a href="/s-11-health-care.aspx" class="fullwidth">Health Care (10)</a></div>
+        <div class="nav-sublevel"><a href="/s-22-insecticides.aspx" class="fullwidth">Insecticides (5)</a></div></div><div class="hidden GuidedNavigationAttributes" style="display:none" id="hiddensectionItemType"><div class="nav-sublevel"><a href="/s-38-paper-products.aspx" class="fullwidth">Paper Products (1)</a></div>
+        <div class="nav-sublevel"><a href="/s-12-personal-care.aspx" class="fullwidth">Personal Care (22)</a></div>
+        <div class="nav-sublevel"><a href="/s-17-school-office-supplies.aspx" class="fullwidth">School &amp; Office Supplies (7)</a></div>
+        <div class="nav-sublevel"><a href="/s-18-seasonal.aspx" class="fullwidth">Seasonal (6)</a></div>
+        <div class="nav-sublevel"><a href="/s-13-skin-care.aspx" class="fullwidth">Skin Care (8)</a></div>
+        <div class="nav-sublevel"><a href="/s-52-trailerloads.aspx" class="fullwidth">Trailerloads (6)</a></div>
+      </div><a class="fullwidth" id="MoresectionItemTypeLink" onclick="javascript:document.getElementById('hiddensectionItemType').style.display = 'block';document.getElementById('MoresectionItemTypeLink').style.display = 'none';" href="javascript:void(0);">More...</a></div>
+  </div>
+  <div class="CatBlock" id="Lot SizeUnselected">
+    <h3 id="Lot SizeHeader" class="sectionheader">Lot Size</h3>
+    <div class="guidedNavGroup">
+      <div class="visible GuidedNavigationAttributes" id="visiblesectionLotSize">
+        <div class="nav-sublevel"><a href="/s-23-box-lots.aspx" class="fullwidth">Box Lots (160)</a></div>
+        <div class="nav-sublevel"><a href="/s-24-case-lots.aspx" class="fullwidth">Case Lots (42)</a></div>
+        <div class="nav-sublevel"><a href="/s-25-pallet-lots.aspx" class="fullwidth">Pallet Lots (51)</a></div>
+        <div class="nav-sublevel"><a href="/s-26-trailer-loads.aspx" class="fullwidth">Trailer Loads (27)</a></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+                    
+				    <!--End Guided Navigation Block: Navigation XML Package-->
+
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<div id="footer" class="footer bar">
+				<!-- READ FROM DB --><div id="divFooterCompanyLinks">
+<ul class="footerList">
+    <li><a href="default.aspx" itemprop="url">Home</a></li>
+    <li><a href="t-about.aspx">About Us</a></li>
+    <li><a href="t-faq.aspx">FAQs</a></li>
+    <li><a href="t-security.aspx">Security</a></li>
+    <li><a href="t-privacy.aspx">Privacy Policy</a></li>
+    <li><a href="account.aspx">Account</a></li>
+    <!-- <li><a href="wishlist.aspx">Wishlist</a></li>  -->
+    <li></li>
+</ul>
+</div>
+<div id="divFooterCategoryLinks">
+<ul class="footerList">
+    <li><a href="RecentAdditions.aspx">New Arrivals</a></li>
+    <li><a href="c-2-general-merchandise.aspx">General Merchandise</a></li>
+    <li><a href="c-1-health-beauty.aspx">Health &amp; Beauty</a></li>
+    <li><a href="c-3-household.aspx">Household</a></li>
+    <li><a href="c-4-seasonal.aspx">Seasonal</a></li>
+    <li><a href="c-5-trailer-loads-multi-pallet-lots.aspx">Trailer Loads &amp; Multi-Pallet Lots</a></li>
+</ul>
+</div>
+<div id="divFooterContactLinks">
+<span itemref="_openingHoursSpecification1 _url3 _telephone12" itemtype="http://schema.org/LocalBusiness">
+</span>
+<table id="tblContactInfo">
+    <tbody>
+        <tr>
+            <td>Web:</td>
+            <td><a href="t-contact.aspx">Contact Us</a></td>
+            <td><span style="text-decoration: underline;">Mailing Address:</span></td>
+        </tr>
+        <tr>
+            <td>Email:</td>
+            <td><a href="mailto:sales@discountwholesalersinc.com">
+            <meta content="sales@discountwholesalersinc.com" itemprop="email" />Sales@DiscountWholesalersInc.com</a></td>
+            <td><span itemprop="name">Discount Wholesalers, Inc</span></td>
+        </tr>
+        <tr>
+            <td>Phone:</td>
+            <td><span itemprop="telephone" id="_telephone12">610.458.1131</span></td>
+            <td itemref="_postalCode7 _addressRegion8 _addressLocality9" itemtype="http://schema.org/PostalAddress" itemprop="address"><span itemprop="address">1985 Ticonderoga Blvd, Ste 27</span></td>
+        </tr>
+        <tr>
+            <td>Fax:</td>
+            <td>610.458.1190</td>
+            <td><span itemprop="addressLocality" id="_addressLocality9">Chester Springs</span>, <span itemprop="addressRegion" id="_addressRegion8">PA</span></td>
+        </tr>
+        <tr>
+            <td colspan="2"><a href="http://goo.gl/maps/ZtKQv" target="_blank">Get Directions</a></td>
+            <td itemprop="postalCode" id="_postalCode7">19425</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="clearfix"></div><!-- END OF DB -->
+
+
+			</div>
+			<div class="subFooter">
+				<!-- READ FROM DB --><div id="divBanners">
+<div class="banner"> <!-- TopTenWholesale.com Verification Start -->
+<script type="text/javascript" src="http://www.toptenwholesale.com/verified?id=600u601u661u55u666u663u660u662u95u"></script>
+<!-- TopTenWholesale.com Verification End -->
+</div>
+<div class="banner"> <a onclick="window.open('http://www.wholesalecentral.com/wc_sealverifying.htm','WCVRFY','scrollbars=yes,resizable=yes,width=450,height=300')" href="http://www.wholesalecentral.com/wc_sealconfirm.htm?ID=BKBNDADEBJDCBWBGBGAK" target="WCVRFY">
+<img width="190" height="40" alt="Wholesalecentral.com Member" src="http://images.wholesalecentral.com/wholesalecentral-member.gif" style="border-width: 0px; border-style: solid;" /></a>
+</div>
+<div class="banner"><a href="http://theimasd.com/"><img width="120" alt="IMASD Member" src="http://theimasd.com/images/imasd.gif" style="border-width: 0px; border-style: solid;" /></a>
+</div>
+</div>
+<div class="clearfix">&copy; Discount Wholesalers, Inc. 2014. All Rights Reserved. Powered by <a href="http://www.aspdotnetstorefront.com" target="_blank">AspDotNetStorefront</a></div><!-- END OF DB -->
+
+
+			</div>
+		</div>
+	</form>
+	
+	
+	
+	
+	
+</body>
+</html>

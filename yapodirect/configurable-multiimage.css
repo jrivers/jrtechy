@@ -1,0 +1,66 @@
+.productPage .productImageWrap
+{
+    float: left;
+    padding-right: 10px;
+}
+
+.productInfo
+{
+    float: left;
+    width: 440px;
+}
+.productDescription
+, .addToCartWrap
+, .productShareWrap
+, .paypalWrap
+, .inventoryTable
+, .stockIndicator
+, .productSKU
+{
+    margin-bottom: 10px;
+}
+.productPrice
+{
+    font-size: 18px;
+}
+.productOptions
+{
+    margin-top: 10px;
+}
+.productPage .AddToCartButton
+, .productPage .AddToWishButton
+{
+    background: url(CustomImages/buttonSprite.png) repeat-x left top;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    padding: 0px 8px;
+    color: #333;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    margin: 0px 3px;
+    cursor: pointer;
+    
+}
+.productPage .AddToWishButton:hover
+{
+    background: url(CustomImages/buttonSprite.png) repeat-x 0px -29px;
+}
+.productPage .AddToCartButton
+{
+    background: url(CustomImages/buttonSprite.png) repeat-x 0px -62px;
+    color: #fff;
+}
+.productPage .AddToCartButton:hover
+{
+    background: url(CustomImages/buttonSprite.png) repeat-x 0px -90px;
+}
+.variantOptionsLabel
+{
+    font-weight: bold;
+}
+.addToCartWrap input, .addToCartWrap select
+{
+    vertical-align: middle;
+}

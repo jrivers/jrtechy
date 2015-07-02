@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+	<script type ="text/javascript" src="../js/jquery.js"></script>
+    <script type="text/javascript" src="../js/timothy.js"></script>
+    
+    <link href="../css/styles.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="../css/print.css" rel="stylesheet" type="text/css" media="print">
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="cache" />
+    <meta name="robots" content="INDEX, FOLLOW" />
+    <meta name="keywords" content="Enter Keywords" />
+    <meta name="description" content="Hair salon in lagrange, IL" />
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Salon 360 by Jarrett Rivers</title>
+    <!-- TemplateEndEditable -->
+    <! -- Google Analytics Code Goes Here -->
+    
+    <! -- End Google Analytics Code-->
+    
+<style type="text/css">
+
+</style>
+
+
+
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="../engine1/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="../engine1/jquery.js"></script>
+	<script type="text/javascript" src="../engine1/wowslider.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="outer">
+<div id="wrapper">
+	
+    <div id="logo" >
+     <img src='../images/icons/glass logo teal.jpg'  />
+    </div>
+        
+    <div id="social_media_icons">
+    <ul>
+        <li><a href="http:/www.facebook.com/stylesbysalon360?fref=ts"><img src="../images/icons/facebook.png"/></a></li>
+        <li><a href="http://www.youtube.com/watch?v=rbl-wx9w6qg&feature=youtube_gdata_player"><img src='../images/icons/youtube.png'/></a></li>
+      </ul>
+    </div>
+    
+    <div id="topnav">
+    	<ul>
+        <li><a href="../index.html">HOME</a></li>
+        <li><a href="../about.html">ABOUT</a></li>
+        <li><a href="../services.html">SERVICES</a></li>
+        <li><a href="../contact.html">CONTACT</a></li>
+        <li><a href="appointments.html">APPOINTMENTS</a></li>
+        </ul>
+    </div>
+    
+    
+
+
+
+<!-- Start WOWSlider.com BODY section id=wowslider-container1 -->
+	<div id="wowslider-container1">
+	<div class="ws_images">
+<span><img src="../data1/images/get_done_in_comfort.jpg" alt="Get done in comfort" title="Get done in comfort" id="wows0"/></span>
+<span><img src="../data1/images/salon.jpg" alt="Salon" title="Salon" id="wows1"/></span>
+<span><img src="../data1/images/salon_360.jpg" alt="Salon 360" title="Salon 360" id="wows2"/></span>
+</div>
+<div class="ws_bullets"><div>
+<a href="#wows0" title="Get done in comfort"><img src="../data1/tooltips/get_done_in_comfort.jpg" alt="Get done in comfort"/>1</a>
+<a href="#wows1" title="Salon"><img src="../data1/tooltips/salon.jpg" alt="Salon"/>2</a>
+<a href="#wows2" title="Salon 360"><img src="../data1/tooltips/salon_360.jpg" alt="Salon 360"/>3</a>
+</div></div>
+<a style="display:none" href="http://wowslider.com">Javascript Change Background Image by WOWSlider.com v2.0</a>
+	<div id="wowslider-frame"></div>
+	<div id="wowslider-shadow"></div>
+	</div>
+	<script type="text/javascript" src="../engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+
+<div id="contentfull"><!-- TemplateBeginEditable name="EditRegion3" -->
+  <h1> Welcome to Salon 360</h1>
+  <p> Welcome to Salon 360. jsdjf sids sdi kasdfj sjddjf isi fi ifeo fois jdfoihe fijhsddo ffoi sddioh oais oifh oisa isd iosddj  foiisj doijf oissjd oijs hfue os ihsddi f o fiosh oifhefuhs o ioehf osiihdd foihe fioh sfoi8h eojdf osdd foisddh fo if </p>
+  <img class="image-frame" src="../images/png/182163_476064302409203_12366564_n.jpg"/> <img class="image-frame" src="../images/png/drea2.jpg"/>
+  <p>Come in and get whipped up klskalsjdf oisd foij sfaoije oai sjdofij eoifj aoisjd jfoihe foih asdoijh foihasd ofihjw seldjfi sid fi soidf is sidf p sidf sjisdjf o idjf ssddje fipjv vie jfcjpsj fp9sj fjpe9 fjs9j p9efj psj pe9jff ps9j fp9 kljdsf isd si foisj f </p>
+<!-- TemplateEndEditable --></div>
+    <div id="footer">
+      <p class="footer-text">Have a blessed day</p>
+  </div>
+    
+</div>
+</div>
+</body>
+</html>
+    

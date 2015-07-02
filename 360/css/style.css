@@ -1,0 +1,49 @@
+body {
+  color: black;
+  background: white;
+  margin-bottom: 6ex;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  -webkit-border-radius: 25px;
+}
+
+h1 {
+  color: #039;
+  background: white;
+  margin-bottom: 2ex;
+}
+
+h2, h3, h4, h5, h6 {
+  color: #039;
+}
+
+table {
+  margin-right: auto;
+  margin-bottom: 2ex;
+}
+
+thead td, th {
+  color: black;
+  background: #ffffff;
+  font-size: smaller;
+  font-weight: bold;
+  text-align: center;
+  padding: 0.5em 1ex;
+ 
+}
+
+tbody td, td {
+  color: black;
+  background: #ffffff;
+  font-size: small;
+  padding: 0.5em 1ex;
+ 
+}
+
+pre {
+  color: black;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+a:link {color:#008A8A;} 
