@@ -180,14 +180,7 @@ function printTime(){
 }
 
 
-function dropmenu(){
-	
-	document.getElementById('dropmenu1').style.display ="block";
-	
-}
-function dropmenuhide(){
-document.getElementById('dropmenu1').style.display="none";
-}
+
 
 function CustomAlert(){
 	this.render =function(dialog){

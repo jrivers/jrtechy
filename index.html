@@ -5,19 +5,21 @@
 <head>
 	<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8">-->
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<meta name="viewport" content="width=device-width, intitial-scale=1.0">
 	<script type="text/javascript" src="jQuery.js"></script>
-	<script type="text/javascript" src="app.js"></script>
-	<script type="text/javascript" src="angular.min.js"></script>
 	<script type="text/javascript" src="jrtechyjQuery.js"></script>
 	<script type="text/javascript" src="jrtechy.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	
 <!--Adobe Edge Runtime-->
     <script type="text/javascript" charset="utf-8" src="banner_edgePreload.js"></script>
-
+	<style>
         .edgeLoad-EDGE-3957422 { visibility:hidden; }
     </style>
 <!--Adobe Edge Runtime End-->
+<link href="techycss.css" rel="stylesheet" >
+<link href = "css/bootstrap.min.css" rel="stylesheet">
 
-<link rel="stylesheet" href="techycss.css">
 <!--[if lt IE 9]>
 	<script src="html5shiv.js"></script>
 <![endif]-->
@@ -26,31 +28,45 @@
 
 </head>
 <body onLoad="fillYears(); populateTable(document.dateChooser);printTime();">
-
+<div class = "navbar navbar-inverse navbar-static-top">
+	<div class = "container-fluid">
+		<div class = "navbar-header">
+			<button type= "button" class= "navbar-toggle" data-toggle= "collapse" data-target = "#myNavbar">
+				<span class= "icon-bar"></span>
+				<span class= "icon-bar"></span>
+				<span class= "icon-bar"></span>			
+			</button>
+		 
+			 <a class= "navbar-brand" href= "#">JRTECHY &reg;</a>
+		</div>		
+			<div class= "collapse navbar-collapse" id= "myNavbar">
+				<ul class= "nav navbar-nav navbar-right">
+					<li class= "active"><a href= "index.html">Home</a></li>
+					<li><a href= "jrtechyabout.html">About</a></li>
+					<li class= "dropdown">
+						<a class= "dropdown-toggle" data-toggle= "dropdown" href= "#">Sample Sites<b class ="caret"></b></a>
+							<ul class= "dropdown-menu">
+								<li ><a  href= "# " onclick= 'window.open("360/index.html ")'>Salon 360</a></li>
+								<li ><a  href= "#" onclick='window.open("O&SWebsite/philosophy.html")'> Scent Serenity</a></li>
+								<li ><a  href= "#" onClick='window.open("yapodirect/Yapodepot.html")'> Yapo Depot</a></li>
+							</ul>
+					</li>
+					<li><a href = "jrtechycontact.html  ">Contact</a></li>
+					<li><a href = "appointments.html">Appointments</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
 <div id="logo" >
      <img src="bacground halo blue.png"  onmouseover='Alert.render("We can use your personal logo or our graphic designers can fashion one for you");'/>
     </div>
 <div id="big_wrapper" >
 
-<header style="height:10%">
+<header style="height:10%" class="hidden-s">
 
 <div id="Stage" class="EDGE-3957422">
 		</div>
 </header>
-<input type="button"value="menu" id="showmenu" >
-<nav id="topnav" >
-         <div class="navbut" name="navi" ><button onClick="window.location='index.html'" onmouseover="dropmenuhide()"><h4>HOME</h4></button></div>
-        <div class="navbut" name="navi"><button onClick="window.location='jrtechyabout.html'"onmouseover="dropmenuhide()"><h4>ABOUT</h4></button></div>
-        <div class="navbut" name="navi"><button onClick="return false" onmousedown="dropmenu()"><div name="dropmenu1" id="dropmenu1" class="dropmenus">
-		<a href="360/index.html " onclick='window.open("360/index.html ")'>Salon 360</a>
-		<a href="O&SWebsite/philosophy.html" onclick='window.open("O&SWebsite/philosophy.html")'> Scent Serenity</a>
-        <a href="yapodirect/Maybelline.html" onClick='window.open("yapodirect/Maybelline.html")'> Yapo Depot</a></div >
-		<h4>SAMPLE SITES</h4></button></div>
-        <div class="navbut" name="navi"><button onClick="window.location='jrtechycontact.html'"onmouseover="dropmenuhide()"><h4>CONTACT</h4></button></div>
-        <div class="navbut" name="navi"><button onClick="window.location='appointments.html'"onmouseover="dropmenuhide()"><h4>APPOINTMENTS</h4></button></div>
-		
-</nav>
-
 
 <section > 
 
@@ -65,28 +81,16 @@
 		</article>
 		
 </section>
-<section id="skin" >
+<section id="skin"class = "hidden-xs">
 	
 	<header onmouseover='Alert.render("We create custom media players with custom backgrounds and play-lists of your choosing(even your own Youtube videos)");'>
-		<h1 class= "movieHead" > Custom Media Players<h1>
+		<h1 class= "movieHead" > Custom Media Players <h1>
 	</header>
-	<div id="movieart">
-		<video id="Themovie" width="90%" height="45%" >
-			<source src="Beginner JavaScript Tutorial - 40 - Simple Form Validation.mp4" >
-		</video>
-		<nav>
-			<div id="buttons">
-				<button type="button" id="playbutton">></button>
-				<button type="button" id="rewind"><<</button>
-			</div>
-			<div id="defaultBar">
-			<div id="progressBar"></div>
-			</div>
-			<div style="clear:both"></div>
-	
-		</nav>
-
-</div>	
+	<video width="85%" height="85%" controls>
+		<source src="Boolean algebra #4- Different terminology and notations.mp4" type="video/mp4">
+ Your browser does not support the video tag.
+</video>
+ 
 </section>
 
 	
@@ -136,5 +140,10 @@
 	</div>
 </div>	
 </div>	 
+<div class ="navbar navbar-default navbar-fixed-bottom ">
+		<div class = "container">
+		<p class = "navbar-text">Site built by JRTECHY &copy; 2015</P>
+		</div>
+	</div>
 </body>
 </html>	 

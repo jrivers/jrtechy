@@ -223,7 +223,9 @@ div.dropmenus2 > a:hover{
 	color:black;
 	
 }
+
 #topnav>div{
+	
 	float:left;
 }
 
@@ -293,7 +295,18 @@ text-align:left;
 }
 #movieart{
 	width:100%;
+padding-bottom:56.25%;
+padding-top:25px;
+position:relative;
+
 	
+}
+#myContentWrapper{
+	position:absolute;
+	top:0;
+	bottom:0;
+	width:100%;
+	height:100%;
 }
 #calendar{
 	width:35%;
@@ -366,10 +379,12 @@ text-align:left;
 	text-align:center;
 	background-color:white;
 	border-radius: 10px;
+	margin-bottom: 30px;
  
 
 }
 #topnav{
+	display:block;
 		width:100%;
 	
 	}
@@ -492,6 +507,7 @@ text-decoration:bold;
 #dialogbox > div >#dialogboxhead{background:#001662; font-size:19px; padding:10px; color:#c7fdf8;}
 #dialogbox > div >#dialogboxbody{background:#0231b8; padding:10px; color:#d7eff7;}
 #dialogbox > div >#dialogboxfoot{background:#001662; padding:10px; text-align:right;}
+
 @media screen and (max-width:800px){
 	article.intro{
 		float:none;
@@ -522,11 +538,31 @@ text-decoration:bold;
 		clear:both;
 		width:55%
 		}
-	article.into{
+	#p_articleservices{
+		font-size:12px;
+		border-radius:15px;
 		float:none;
-		margin: auto;
+		margin:20px auto;
+	}
+	#p_articleservices2{
+		border-left:6px solid #1e1e68 ;
+		border-right:6px solid #1e1e68 ;
+		border-bottom:6px solid #1e1e68 ;
+		font-size:12px;
+		border-radius:15px;
+	}
+	#asideinfo{
+		border-left:6px solid #1e1e68 ;
+		border-right:6px solid #1e1e68 ;
+		border-bottom:6px solid #1e1e68 ;
+		font-size:12px;
+		border-radius:15px;
+		float:none;
+		margin:20px auto;
+		
 		
 	}
+	
 }
 
 @media screen and (max-width:1066px){
@@ -539,5 +575,14 @@ text-decoration:bold;
 		display:none;
 	}
 	#showmenu{display:block;}
+	}
+	@media screen and (min-width:1067px){
+	#showmenu{
+		display:none;
+	}
+	#topnav{
+		display:block;
+	}
+		
 	}
 	
